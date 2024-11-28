@@ -22,7 +22,8 @@ The dataset used for this project was sourced from Kaggle. It includes informati
 ## Tools and Technologies  
 - **Python**: Used for data cleaning and exploration  
 - **Power BI**: Used for creating the final dashboard  
-- **Pandas & NumPy**: Libraries for data manipulation and computation  
+- **Pandas & NumPy**: Libraries for data manipulation and computation
+- **Microsoft SQL Server**: Used for data validation
 
 ---
 
@@ -42,7 +43,7 @@ Some of the insights drawn from the analysis include:
 
 ## Dashboard  
 The final Power BI dashboard is designed to provide a comprehensive data view, with filters and interactive visuals for deeper exploration.
-                                               *You can explore it through the dashboard folder*
+                                               **You can explore it through the dashboard folder**
 
 ---
 
