@@ -68,10 +68,6 @@ The final Power BI dashboard showcases insights emphasizing user-friendly and im
 
 ---
 
-## Dataset  
-The dataset used for this project was sourced from Kaggle. It includes information about cybersecurity incidents, such as attack type, target industries, countries affected, etc.
-
----
 
 ## Tools and Technologies  
 - **Python**: Used for data cleaning and exploration  
