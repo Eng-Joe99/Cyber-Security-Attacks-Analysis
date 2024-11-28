@@ -90,7 +90,7 @@ Some of the insights drawn from the analysis include:
   
 - A correlation between high anomaly scores and malware detection can suggest a strong relationship between the severity of network activity anomalies and the presence of malicious software.
 
--Analyzing which protocols (e.g., TCP, UDP, ICMP) are most frequently used in attacks can reveal common methods attackers use to penetrate networks. For example, a high prevalence of TCP-based attacks may indicate that attackers exploit specific vulnerabilities in TCP connections.
+- Analyzing which protocols (e.g., TCP, UDP, ICMP) are most frequently used in attacks can reveal common methods attackers use to penetrate networks. For example, a high prevalence of TCP-based attacks may indicate that attackers exploit specific vulnerabilities in TCP connections.
 
   
 ---
@@ -98,7 +98,7 @@ Some of the insights drawn from the analysis include:
 ## Dashboard  
 The final Power BI dashboard is designed to provide a comprehensive data view, with filters and interactive visuals for deeper exploration.
                                               
-  **You can explore it through the dashboard folder**
+  **You can explore it through the Power Bi folder**
 
 ---
 
