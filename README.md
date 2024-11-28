@@ -1,4 +1,9 @@
-<div style="background-color: #001F3F; color: #F5EFFF; padding: 10px; font-size: 32px; font-weight: bold; text-align: center; border-radius: 5px;">Cyber Security Attacks Project</div>
+# Cybersecurity Attacks Analysis and Dashboard  
+
+This repository contains a data analysis project focused on global cybersecurity incidents. The project aims to uncover patterns and insights using data cleaning, exploration, and visualization techniques. The final deliverable includes a dashboard created in Power BI to effectively communicate the findings.
+
+---
+
 
 # About Dataset
 __Consists of 25 varied metrics and 40,000 records__
@@ -52,29 +57,12 @@ __Dataset Overview:__
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-# Cybersecurity Attacks Analysis and Dashboard  
-
-This repository contains a data analysis project focused on global cybersecurity incidents. The project aims to uncover patterns and insights using data cleaning, exploration, and visualization techniques. The final deliverable includes a dashboard created in Power BI to effectively communicate the findings.
-
----
-
 ## Project Overview  
 The primary objective of this project is to analyze cybersecurity attack data, identify trends, and provide actionable insights. The analysis includes:  
 - Data cleaning and preprocessing  
 - Exploratory data analysis (EDA)  
-- Visualization of key metrics and trends  
+- Visualization of key metrics and trends
+- Data Validation
 
 The final Power BI dashboard showcases insights emphasizing user-friendly and impactful design.
 
