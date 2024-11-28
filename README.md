@@ -43,7 +43,8 @@ Some of the insights drawn from the analysis include:
 
 ## Dashboard  
 The final Power BI dashboard is designed to provide a comprehensive data view, with filters and interactive visuals for deeper exploration.
-                                               **You can explore it through the dashboard folder**
+                                              
+  **You can explore it through the dashboard folder**
 
 ---
 
