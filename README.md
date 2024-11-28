@@ -1,5 +1,3 @@
-# Cyber-Security-Attacks-Analysis
-A project that explores insights into global cybersecurity incidents using a dataset from Kaggle. Includes data cleaning, analysis, and visualization steps implemented in Python and Power BI.
 # Cybersecurity Attacks Analysis and Dashboard  
 
 This repository contains a data analysis project focused on global cybersecurity incidents. The project aims to uncover patterns and insights using data cleaning, exploration, and visualization techniques. The final deliverable includes a dashboard created in Power BI to effectively communicate the findings.
