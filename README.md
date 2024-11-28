@@ -30,18 +30,22 @@ The dataset used for this project was sourced from Kaggle. It includes informati
 
 ## Key Insights  
 Some of the insights drawn from the analysis include:  
-- [Insight 1: Brief description of a finding]  
-- [Insight 2: Brief description of another finding]  
-- [Insight 3: Brief description of another finding]  
+- The total number of attacks by country can help identify how different regions or cities within the same country compare in terms of attack frequency. A particular city might have vulnerabilities in its cybersecurity infrastructure or might be a frequent target due to political, economic, or technological factors.
+ 
+- User information associated with each attack may reveal patterns such as the types of users or businesses targeted in different cities. For instance, cities with more corporate or government infrastructure might show a higher volume of sophisticated attacks aimed at large organizations.
 
+  
+- A correlation between high anomaly scores and malware detection can suggest a strong relationship between the severity of network activity anomalies and the presence of malicious software.
+
+-Analyzing which protocols (e.g., TCP, UDP, ICMP) are most frequently used in attacks can reveal common methods attackers use to penetrate networks. For example, a high prevalence of TCP-based attacks may indicate that attackers exploit specific vulnerabilities in TCP connections.
+
+  
 ---
 
 ## Dashboard  
 The final Power BI dashboard is designed to provide a comprehensive data view, with filters and interactive visuals for deeper exploration.
+                                               *You can explore it through the dashboard folder*
 
 ---
 
-## How to Use  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/cybersecurity-attacks-analysis.git
+
